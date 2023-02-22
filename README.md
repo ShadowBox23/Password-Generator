@@ -1,5 +1,5 @@
 # Password-Generator
-In this weeks challange I was given starter code to then modify and create a working Password Generator to push out random passwords that follow a certain criteria.
+In this weeks challenge I was given starter code to then modify and create a working Password Generator to push out random passwords that follow a certain criteria.
 
 ## Password Generator Demo
 The image below shows a glimpe of what the Generator looks like
